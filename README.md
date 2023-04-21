@@ -3,4 +3,4 @@ Patika Task Javascript 2
 
 # ANA SAYFA
 
-![Ana Sayfa](jstask 2.png)
+![Ana Sayfa](jstask2.png)
